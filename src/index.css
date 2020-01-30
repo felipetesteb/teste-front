@@ -11,3 +11,48 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.myimg {
+  max-width:300px;
+  max-height:290px;
+  min-height: 112px;
+  width: auto;
+  height: auto;
+}
+.myimg2{
+  max-width:300px;
+  max-height:200px;
+  min-height: 200px;
+  width: auto;
+  height: auto;
+}
+.mynav{
+  min-height: 110px;
+}
+.adjustLi{
+  margin-top:15px
+}
+.imgCard{
+  max-width:300px;
+  max-height:250px;
+  width: auto;
+  height: auto;
+}
+.myform{
+  border-radius:15px 15px 15px 15px;
+  margin-top:30px
+}
+.myborder{
+  border:1px solid lightgrey;
+  
+}
+.mymargin{
+  margin-top:100px
+}
+.mymargin2{
+  margin-top:50px
+}
+.margin-left{
+  margin-left:50px
+}
+
